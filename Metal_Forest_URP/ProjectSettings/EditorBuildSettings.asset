@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HomeArea.unity
+    guid: 62c7737fc19bf714cbe69e1f88af478f
+  - enabled: 1
+    path: Assets/Scenes/MazeGame.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/BoatDevScene.unity
+    guid: 450306e43c470864dbbcdab996930f08
+  - enabled: 1
+    path: Assets/PlantGunnerMinigame/EnemySpawnScript.unity
+    guid: adbdf27c5798e2e48b951837ff8d66c8
+  m_configObjects: {}
